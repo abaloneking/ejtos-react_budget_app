@@ -11,3 +11,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.op-btn {
+  width: 2.5em;
+  height: 2.5em;
+  border-radius: 2em;
+  color: #fff;
+  border: 1px solid #6c6c6c
+}
+
+.del.op-btn {
+  background-color: red;
+}
+
+.add.op-btn {
+  background-color: lightgreen;
+}
+
+.dropdown-menu.ddl-panel {
+  background-color: lightgreen;
+}
+
+.dropdown-toggle.ddl-btn {
+  color: #fff;
+  background-color: lightgreen;
+}
